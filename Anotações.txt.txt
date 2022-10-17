@@ -1,0 +1,7 @@
+Introdução ao Git/GitHub:
+
+ - Criar um repositório no github;
+ - Criar uma pasta local e dar um git bash here;
+ - git status;
+ - git add . ;
+ - git commit origin main "";
