@@ -5,3 +5,4 @@ Introdução ao Git/GitHub:
  - git status;
  - git add . ;
  - git commit origin main "";
+ - git push origin main;
