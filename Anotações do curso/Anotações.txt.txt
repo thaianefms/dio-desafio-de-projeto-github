@@ -4,5 +4,13 @@ Introdução ao Git/GitHub:
  - Criar uma pasta local e dar um git bash here;
  - git status;
  - git add . ;
- - git commit origin main "";
+ - git commit -m "";
  - git push origin main;
+
+18/10/22
+
+Java:
+
+ - POO;
+ - Pilares: Classe e Objeto, encapsulamento, abstração, herança, polimorfismo;
+ - plataforma independente(bytecode);
