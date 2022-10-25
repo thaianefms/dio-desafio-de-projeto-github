@@ -6,11 +6,5 @@ Introdução ao Git/GitHub:
  - git add . ;
  - git commit -m "";
  - git push origin main;
+ - git pull origin main;
 
-18/10/22
-
-Java:
-
- - POO;
- - Pilares: Classe e Objeto, encapsulamento, abstração, herança, polimorfismo;
- - plataforma independente(bytecode);
